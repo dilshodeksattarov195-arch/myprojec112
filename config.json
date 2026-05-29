@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssender",
+        "uuid": 615328,
+        "checksum": "wm4lp4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
